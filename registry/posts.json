@@ -1,0 +1,1036 @@
+{
+ "files": {
+  "00b3db28c727191fe2de3feae612708b779cbab30b76a242fb2942d630253caf": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24/mishkah-2026-10-24-slide-2.png"
+  },
+  "018f764e024714e54dd27aa7348cbad6a39f7924cc2a50abc703f6b29142a047": {
+   "added": "2026-10-27",
+   "date": "",
+   "path": "remake/scholar-ibnbaz/mishkah-ibnbaz-196.mp4"
+  },
+  "03ea23a6cd63f3e7328a03168e3beb73bdafd25e6071c2904426895b0ab54e52": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-12.png"
+  },
+  "044b2801fd8917dc37c67cabeef95a7f5a296d8360eb1623debb5f73fbf36e32": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-11/mishkah-2026-10-24-11-reel.mp4"
+  },
+  "044e8087bde8a7170f2eb0565e02e90adb0096b7bd4b7ff95c7c510a342734d2": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-15.png"
+  },
+  "04a8cb01486d40b7105853f9e0c8261900e5c12dc3ed19c6ffb765bfa1f12c33": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-11.png"
+  },
+  "04cdc7d97f57986ad6f2404b19d376b82489e293b7a5e15a76685444bad092f1": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26/mishkah-2026-10-26-slide-4.png"
+  },
+  "04ed48afad693b69e4c55d6b7112d2c909886961eb419b8c11ad7fa619cc0f61": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-4.png"
+  },
+  "05524e9b4b457ee05b8fb4fbbe81a2b09c0dfc7c1911aa6b64e01bd77457962f": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-7.png"
+  },
+  "057387cd5d0e83520f0709f4e631ab47946db0aeba20ab657499c3d4cf4b2abd": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-1.png"
+  },
+  "06203ce7901a12e5dfa1036426c5eea6342658def98f43ccd6c9e7423379d267": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-5.png"
+  },
+  "0732014fe6118dbe540623b6790f0f7d538c28fddfd36d899d434fd4566daea0": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-4.png"
+  },
+  "0773abfca56807743df7d21c9c570ce08b4bf0f312fc2475a0c2ba48436a669e": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-5.png"
+  },
+  "07d67acad0173d6f51890a8b5eab78070ee8ec3e6a9611781637840e3b6bef14": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-16.png"
+  },
+  "081b6a4d9b662405b7efb21677f5f004a71139ec68dd0c9e01f1cec2d3566565": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-reel.mp4"
+  },
+  "08dfd8b7c2dfcf9bd8bd632b894a1c022431befa4a78de6aaacbed666546f2d7": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-02/mishkah-2026-10-24-02-slide-1.png"
+  },
+  "09c2cab617727d977adc0a1cd5fed83c0fda78c527f253ba7f569490f7649e04": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-04/mishkah-2026-10-24-04-slide-1.png"
+  },
+  "0cfd6ca20fea7bf368f0bfa72c59300610004865ba5896334eab3ef28cc845ad": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-09/mishkah-2026-10-24-09-slide-3.png"
+  },
+  "1061646d9917217400d40b73e6b619007fa3655f8f15d3d9064aab71ffdb9030": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-2.png"
+  },
+  "1839b1b1e06316af66aeafe6b09cbc40c4a3ed5e1fa24e72b6258144922b4383": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-1.png"
+  },
+  "1cf60c90d2bbf4bac63380f4d4ec563ddfba369acc7ddf578357de631ec61b8d": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-11.png"
+  },
+  "1d59bb48d281287212cde6e9bddd6a895bf945286d7e018f357121e1aee6d31f": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-6.png"
+  },
+  "1e3c56a235a6fcfafd6cd324bfd56ea2bea4771118fcd68759943c4d5e0cb016": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-17.png"
+  },
+  "1e61c75fcac20cf6b6f5fa4e673c7fb04099ff4440ffbc733748c39f4ae893c0": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-12.png"
+  },
+  "1ee311e5a2b7b2ae0b153e43ee01858af590611a8d8169573f7e47278ef48bee": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-19.png"
+  },
+  "1fc91682ac5c5164426ccfee6aa7d2cacedea9a383365dba1fc1ff52ea39c0a5": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-15.png"
+  },
+  "206117a3c380add3da47c8cacd099c9655be5e6b4d83350fa6c0dea66e4352b6": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24/mishkah-2026-10-24-reel.mp4"
+  },
+  "22097d9e11528c2d86f1003d145630f06943bb19739484ad3940ff7d10f75118": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-6.png"
+  },
+  "25e8f5924434583dce57aedf85976a5d6d36b2cc16300c50551b00e2c17f15c5": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-09/mishkah-2026-10-24-09-reel.mp4"
+  },
+  "2686ef38f13cf3af7bbe471d8c1f8f44f64088049122035f424a26ae4809d543": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-5.png"
+  },
+  "26956c6ceb340629ba5df9a4a087e3689442ffe48fc0beb1fcf07a0b4e9376bc": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-6.png"
+  },
+  "2754ef11dd01e706bd0333a93020f3ffc9a7b9d72283a8f80030303677dc7699": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-16.png"
+  },
+  "2c2cec2e90355999445be774ba97d4643e86ca6a8ac68c1ebd24175e7bca4173": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-04/mishkah-2026-10-24-04-slide-1.png"
+  },
+  "2c910c67463c79abe91ad869003bf62141810eebef4d8d59c3ea7cfcc8a5ce80": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-11.png"
+  },
+  "2de87620cfd505a204bc3b2fbdf7155b877c050190436bb862f836125d570b14": {
+   "added": "2026-10-27",
+   "date": "2026-10-23",
+   "path": "scholar/2026-10-23-ibnbaz-purpose/mishkah-ibnbaz-196.mp4"
+  },
+  "2e129a9dcd3552fc985596147733a407daa14a10af971643e807ccbdae6d4cc7": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-4.png"
+  },
+  "2e57d0f6f2233c7d80c131dd47535ed7a75a5b7ca4806be7e54657a66b7b2e7d": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24/mishkah-2026-10-24-slide-3.png"
+  },
+  "2e5b28ff0b37a3f76e60151ed8452704f4f3bb3a2e9b5fea96944f63a12d3b7f": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-3.png"
+  },
+  "2f0eb372472f142a6b2fc36dcc9be77f10184e1656bdf5b5c4d38e5d98f64aad": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-13.png"
+  },
+  "3116293e5639190f790ace756f3d822d80d14b0a987bca27b2979cbee580b170": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-3.png"
+  },
+  "332c50817d5d2bab89b888d6bce23e292b51174e3dbf9029ac82733915e87599": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-7.png"
+  },
+  "33f75be97dc4014e6a067d8204de7f6968af6864a45ab855b0e60b960d95081b": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26-02/mishkah-2026-10-26-02-reel.mp4"
+  },
+  "3510b6ae6bef8dd3b101e594aeeedc989be84b3dfbecbf963db104fd9a08359b": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26/mishkah-2026-10-26-slide-6.png"
+  },
+  "35228659e4982f7d35fadfb5f5fd5bd834d4310f840d8eaae674272133fabbb2": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-14.png"
+  },
+  "3594710613c903fd53b683cc5c1150e194b69cca9e833a1ab451d1e8fa999c4a": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-3.png"
+  },
+  "37b262d9c4723029122448555c5dbadfa5e951c1bb5bef245d1b63a2dd6a942b": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26/mishkah-2026-10-26-slide-5.png"
+  },
+  "3868c135fe782c75200e4d5ca31e75c137862594a94e7fe88cd6049c7de500a3": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-5.png"
+  },
+  "3b37cfbf8d5f63bdf88e59647ee0836a446f08653703c6eab67c3d5d59ef887f": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-12.png"
+  },
+  "3cfc2b5fc1dade7e443acf8dc534713484ad4b2ac445ae77d7c8e8711b973c95": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-19.png"
+  },
+  "3de64121a28c7cb63d0f706a3bef54565edddc7bfe5acfb141e4f25584e95ca9": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26/mishkah-2026-10-26-slide-1.png"
+  },
+  "3e5bcd3cb128541a01d99091c9130c32012fcf1305814efabb70221787df3e77": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-09/mishkah-2026-10-24-09-slide-1.png"
+  },
+  "3f88befbfe80ea510345b90941a9364c844dd87092ab32cce9c1d79948ad6fe5": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-7.png"
+  },
+  "3fe7e7da2cc287c155edd5680cbdfecaffacdbda5f01553f021cbd219e1b9648": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-17.png"
+  },
+  "42242a14fc1f544ce6bbe225b95225b286eb96120a21b15307497b5ccc4861eb": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-19.png"
+  },
+  "43c2b44e02db1d7a91ec716a1d03760f02ec8055a0aad56480854087bca92839": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-8.png"
+  },
+  "45440705d7751d90c0cb9c9985e70554e2104117f1a75ea84b6be39e8e013f53": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-14.png"
+  },
+  "469516c0f408e9435f393fe15e656bf1356265426406f25ef5e808f06ee6d1f5": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-06/mishkah-2026-10-24-06-slide-1.png"
+  },
+  "46e0bda1980236b8677cc8734e9fc2b3d7d16a380a26df7d74ca444ceda90214": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-8.png"
+  },
+  "480cd813ed4d30cfdf0491f42b472056a1c1fe06c8957d8f1148c7cd531cdb82": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-6.png"
+  },
+  "4945b5725afba8ab43e405e6cc50179195a743154f3d1715833f51a1539c94f5": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-10.png"
+  },
+  "497b97cce8e178040a10dfda0d0378557126981f217f3d617e767d4334d937fd": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-11.png"
+  },
+  "4ecf4235a5c9e189faa307f86a1d7364b7f53b07375fc51d226b41c67d215e8a": {
+   "added": "2026-10-27",
+   "date": "2026-10-27",
+   "path": "scholar/2026-10-27-ibn-uthaymeen-time/mishkah-scholar-2026-10-27.mp4"
+  },
+  "4fb908ed4ef7df011cb99684c84add086ea2c53f4d869608cf994317feabbfe4": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-9.png"
+  },
+  "50719e65f6bad60bdd5bd564612a482093b89d103953f4cf862757c0281d9726": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-11.png"
+  },
+  "513dff3ee13a69bce101db4688e506fb81012d5886b2ccd72d414f90f1aa8742": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26/mishkah-2026-10-26-slide-3.png"
+  },
+  "5252ad6f76dfe555b2fac773574ce18787a5efff373b29d91ee4e9dca3ca2da7": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-16.png"
+  },
+  "544b4969f1e375fbc47947c37f10240f200c916545b638865cb9eeb4b4c54494": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-7.png"
+  },
+  "558da89978e591c1024c864a8e4a8efa594e3ef16a8324c5778229fa2c17298b": {
+   "added": "2026-10-27",
+   "date": "2026-10-27",
+   "path": "posts/2026-10-27/mishkah-2026-10-27-slide-4.png"
+  },
+  "5782e473e51e871c264c7261cbd922627663590cc4dc83c6648dc70e4e6bd99f": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-8.png"
+  },
+  "5a1cce68907f9f394dfe7a6ec74b23cb21811f04caef831e485d07a1c2f83b1b": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-06/mishkah-2026-10-24-06-slide-1.png"
+  },
+  "5ac03c3f35af16bd798296145a6d2fb022d3350223d754ea142f12186ab951eb": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24/mishkah-2026-10-24-slide-2.png"
+  },
+  "5ac80ed8561a1468dea28a94e8b87abdaa47a9d554059b048cffc0817d6e1a3c": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-4.png"
+  },
+  "5b709f27583466b9100a9793d7a6434921460e1baed05f15b6efdea22ee6eec0": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-7.png"
+  },
+  "5f389a3a0089c0428845723e8d19a2849bb31254adfe9e85973c054064b4c0c5": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24/mishkah-2026-10-24-reel.mp4"
+  },
+  "60a385398c6ab4102f59bbf146d8f152909526744542bb928e3c14a1c19ad4b7": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-09/mishkah-2026-10-24-09-slide-1.png"
+  },
+  "612ed76ce01a575e65c777774a18c7293697a389df3fecc567318c48312dd3e7": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-18.png"
+  },
+  "61648d77506fd8f39b6ae033d77d61d913c983df757232b566adffc8ef3e1c9b": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-1.png"
+  },
+  "663f4a748e50fcdfd7f0fc617fa4c1037867baf93e921e69af9a4c00243d89d7": {
+   "added": "2026-10-27",
+   "date": "",
+   "path": "remake/scholar-badr/mishkah-badr-taqwa.mp4"
+  },
+  "666f0aef60e7098a3ac683340cd09524df15f4545aabea903f0513b34703a9ec": {
+   "added": "2026-10-27",
+   "date": "2026-10-27",
+   "path": "posts/2026-10-27/mishkah-2026-10-27-slide-1.png"
+  },
+  "66e80fb585f20d8ec716c1fdc3752a46501955f6a5b13c97d3d2381cdeed5d87": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-3.png"
+  },
+  "696dd1605f621207e71ef2ddd6276c3795b7b056b51ab7e4392af65b17f0a7a0": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-09/mishkah-2026-10-24-09-slide-3.png"
+  },
+  "6aa8a7529ad7ae601e9706bf40f0aeb754d46fb9ea0a0cc769e3aef62ec26d52": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-02/mishkah-2026-10-24-02-slide-1.png"
+  },
+  "6ad70140f32266f5a77dcfcdcc7151ecb8ccca1de8e05ade45af5f680c44af10": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-3.png"
+  },
+  "6c3ae40fb87947992d6cc434a3c557e9981347ac9743b46da6e464951d2250a1": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-11.png"
+  },
+  "6d1b92d49d40f3eeb8e1493bb8d0a51f35e85484886e9e40848b0d0b9fcb3df0": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24/mishkah-2026-10-24-slide-3.png"
+  },
+  "6d7795fb07fda7d7c792025ac8f70f081d935ee048d2d0d19cb1484a45894f15": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-reel.mp4"
+  },
+  "6dda3f052e6c7608c988bdc1c4ad9e70aa2714b62e8d6c20299914193ad2e9b8": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-17.png"
+  },
+  "717ca304dd4735af4be20c0fe988aff531629c91cb35a951010cc74cf08c5802": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-8.png"
+  },
+  "71d5e4654c722dd7428c035d39adee11c9dcf0a09c547d0f7d95319c26912673": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-2.png"
+  },
+  "71ded43083304166bc2bbecf3abba083e212bc32ed07704a743bc087967a55a6": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-9.png"
+  },
+  "736b5b35230f74d1b6e2705915dcb9045d69b67a7b51ba6ca1419f861f655557": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-7.png"
+  },
+  "7579aae4c05c4bf3d24cf9f0c41d199bd372992b53965853141110a9ee1b29e1": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-09/mishkah-2026-10-24-09-slide-2.png"
+  },
+  "75a98e0b716c79954de818b1773a2328ef21d67f88f7d70bbe098aaca008b2fb": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-7.png"
+  },
+  "7620891b5adaee8ab128f44ea87a1c0d8fdf62daacc9865d691f000bc16d0973": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-15.png"
+  },
+  "766ff088760c7f0575b44cc6ede67418d71476a8f39214eaf03e75008ae2abd2": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-1.png"
+  },
+  "77fe598a6416a82bff6387600423e36fe34d2f171c64ba0882b7f5efdc3cbb1a": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-reel.mp4"
+  },
+  "7b8b81247b2a767b9feefb18cea49359649c70978c3af0e4611f3e96b9c435f3": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-8.png"
+  },
+  "7bd93abe4c6b3c070dfd8c2da00169ab6c0e973a29de1b9ba1d5c1fa09dc0022": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-2.png"
+  },
+  "7c30367cd1750d36d1bba152f3e2d55625fe1b7629cefb99fe5fadead181e2a3": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-3.png"
+  },
+  "7d9d9c6d10e6a7cb11b5796c96ae6ad9b27ddc3728845ba330f01eda57f80f91": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-16.png"
+  },
+  "7dea1b22e25d581a605f2138a38d62301b530276117dd2bbb2c5d030d8e55561": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-18.png"
+  },
+  "80846d1f750696500229f59708629ea0457aedb599d3f6d3e847e6ff30148e16": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-15.png"
+  },
+  "8117264e96565496e598f5b7a7332c4e756b0b448f08a2faa54b03f91399fccc": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-13.png"
+  },
+  "82338894d9fcf533b996675ef96a4fd729f9c77992d31cfb8ff0c28d6851863c": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-08/mishkah-2026-10-24-08-reel.mp4"
+  },
+  "8250177780cd9eb0239c415544006ef808d22ae4f2ae7c42fb5abda92dcd7374": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-12.png"
+  },
+  "856851a9d322726405b91477f875ef0d25524eb4f2823621e2526596f74ff2ed": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-4.png"
+  },
+  "858edff8f1bd6800664ac1aae4feafaa3d1d3bd85c273ecac7e384d016cdff7e": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-14.png"
+  },
+  "85c8e3716dc4ac54078ee319bf60d72b7be34535b3e0f990258eb65bd7b1f8d3": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-9.png"
+  },
+  "86ab67721a5504cb44206377f35ae9a585e74935307b3ec4b7b25d42327e5106": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-13.png"
+  },
+  "8895672608173153f8e1364a31c2bd04dded62b6d0e7ce113e46b9429d0d93bb": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-08/mishkah-2026-10-24-08-slide-1.png"
+  },
+  "89a01e9f34b168a042a20a5348a705c01d0a396e4cafe33c1e693634f7357bb7": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-08/mishkah-2026-10-24-08-reel.mp4"
+  },
+  "89de469666fa4afb9393273f8673115589203a25e09e0d9d6d016c6f424201ba": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-14.png"
+  },
+  "8a2ff2610827940deac1a78d6476721803ddfb0829e3465a45ceef5689dd2ea4": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-7.png"
+  },
+  "8a50166d27e1c89e95574229baa82730bad7e711bb1d1f6d17312e3c7b774066": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-1.png"
+  },
+  "8b18e13fa9ff8a7a04c8f5c197b4b7d70ae184ddf475cffb958c224f4c076dd8": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-8.png"
+  },
+  "8bc7ce9d124d538be560c80733feda692e1e37c8d95ab96b57147fb468bd4dca": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-15.png"
+  },
+  "8bee6b0b5cde2b2607157a82380bd69895a1f858818444b71624552134fe0339": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-9.png"
+  },
+  "8c23be85c30ef3b91988d2839829c72b7f561678f826fd3430ddc0995516c8fd": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-reel.mp4"
+  },
+  "8ca69fbbc77069a5eed2b3a7db70ee313d8a70cc5178cadbb0c0467ce01a54f7": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-8.png"
+  },
+  "8d2f88b29936ecd04141faed33d612bffd73af68c51afcb62915dd41e27ebee4": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-13.png"
+  },
+  "8d97867a103284a9d65da4c7b6ce6c8b9c4aeaf03c2f993dcfb5496f38a06d52": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-14.png"
+  },
+  "8eef6e1a89d86bc2a185af1230d9c0a2f5f79472ea77871cf74489bc24bff856": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-20.png"
+  },
+  "8fed6d02f1688b1ee2402925d1ccdf960b712c7ae891cd42b5aa0402e272b239": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-2.png"
+  },
+  "90b9721825af0893c757bb7bf74f7be139e961da19dd3589105e626db62d841d": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-14.png"
+  },
+  "94ea6cdd1caf6ef9e2d5588bd44bf98deb966219ab76a411777177b32f253426": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-3.png"
+  },
+  "95cbc1815ab7b1c294c5cab2ffa058705d5b843a2a771a93c50c862a83372eb5": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-5.png"
+  },
+  "96c10fdb4577bbec2e83fed0caa97d0804c09fdab3a7e2d07ba2c13f05e55509": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-14.png"
+  },
+  "97cb93c5d5d7cbc791e6a7b12ee946b8b5d5bf5f68150741ef6f3060b59a5397": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-02/mishkah-2026-10-24-02-reel.mp4"
+  },
+  "983c4ce92a3d372916cca4d5b755cc159f9d724fcaa39499faf361dd68d40380": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-5.png"
+  },
+  "999a1966c6fce58179a60a7b5fd46bc19efa3af2867f307e59eb5dee959fde58": {
+   "added": "2026-10-27",
+   "date": "2026-10-27",
+   "path": "posts/2026-10-27/mishkah-2026-10-27-slide-3.png"
+  },
+  "9a1bccc91d744628e7953f6ecd84adc8ca7514be3ecf6256eb76cdbaf60e24c5": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-10.png"
+  },
+  "a027e9c2b5e72dd8041b7cf89e00018b4906b011ca3a4bda2c8e7217b5903749": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-11.png"
+  },
+  "a2e884b5ccd862953b4f0dd3d877bffdb4b277eaa24658796943876e42044f84": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24/mishkah-2026-10-24-slide-1.png"
+  },
+  "a6076cad38e8420f626ccefbf06cf5717f6ea6696e7db78c41dd701f1dd1fda0": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-reel.mp4"
+  },
+  "a67d681c8175acba5cb84d3000e7244562260d9a89c406f52b5e23c259890d7c": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-9.png"
+  },
+  "a6ad985251f093704405b13bf40bd6b2317e20b33bb58d45b689a76c9800b255": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-12.png"
+  },
+  "a75c5f90bc154a22e8c5cb6fd02bd27ebe78c56ae68f006f8ea0035dd287f939": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-1.png"
+  },
+  "a80d8f6471f9c3a63297e43bbb932ea99d7a14f82eac08fde349e549a6467eb2": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-reel.mp4"
+  },
+  "aa8f0b3c88ccdd77c7767c38878e8449da23edcde5f2b819031488c38a869f23": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-12.png"
+  },
+  "aaefbf825f96b191207d9c1bc51110bc39c65fba29f8df01b280999c8af593a1": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-6.png"
+  },
+  "abaa7b7946ede8243f121c40e82337c0fedb0eeadfa7cf243f5d9a5d9f53fc30": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-10.png"
+  },
+  "ade79b2df73a26bd474f1daaf5e337648b50580df199bb69b3545ca355a46009": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-09/mishkah-2026-10-24-09-reel.mp4"
+  },
+  "b0b8d877e017c908deea337e680ea69525a7d77e2253ef3945ba57204fc3e294": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-18.png"
+  },
+  "b15e789aec664f2a8d6b1c805770192d42866867a2a0937649df7720e442135c": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-19.png"
+  },
+  "b22b32c31564f04085e4a64d65b231f50b75bb50318dc36a76db90ab7e65c682": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-13.png"
+  },
+  "b40bdd54b829643c28f63c65c4b25a1465691537105a3510f7500254b45fc20a": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-9.png"
+  },
+  "b47ff9dd6aee850ecc3cb16acd4698a9a46fd2da0fad4366f3b55dd083d2f1ab": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-04/mishkah-2026-10-24-04-reel.mp4"
+  },
+  "b4e59baab1a2ce29f2b8a399426b33b90e4191f3c5cb8d97204453ca67011645": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-18.png"
+  },
+  "b599d9e79fb5a076dfbd665979dfcc801842ec44019041c3a6ecb8b0cbc6fc1c": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-8.png"
+  },
+  "b62a657d33a796158bc90eb12e9386fc0340f9ca806155b39b8373f7d7eb0de8": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-11/mishkah-2026-10-24-11-slide-1.png"
+  },
+  "b8ae1f6c2c0665a448fc2dfab9d90277c63379e6a7671f8937b3572e70929e22": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-09/mishkah-2026-10-24-09-slide-2.png"
+  },
+  "b94ee5865f35c3cb5fd73bb9322fda1eae6bac70ac49b5b5b7fda45b1e925a7e": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-1.png"
+  },
+  "ba8ec2f5fb42a1b391e4b8a5e78cac070a0c6d76a21d686df63191dcd4f71c7b": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26-02/mishkah-2026-10-26-02-slide-1.png"
+  },
+  "bab025cac589bf4df9e9c3321496fda2afffdbfca752f5edb34da2203a0aea6e": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-13.png"
+  },
+  "bcc81cd2749e5a4b6937aa08710227efb2bfd3c0c57b9b191e97ae757dd80d53": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-02/mishkah-2026-10-24-02-reel.mp4"
+  },
+  "bd2973b7bdc0f8aa83d2547d7676a37bfe9b5bf67fdc77f047617db3fcda7dda": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26/mishkah-2026-10-26-slide-2.png"
+  },
+  "bd3aed1f0498f040e263c40d26f02f3ae025d211c5c7eff6c1443297d17419b3": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25-02/mishkah-2026-10-25-02-reel.mp4"
+  },
+  "bd4d2b24adb38e161234334a6e6f43f1435dba5745cdbdde7a70a1166aff6a62": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-9.png"
+  },
+  "bd66b90fdf861db571207c035aa35e8a8a23cc675d159e218ceb3f12589a9e6f": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-17.png"
+  },
+  "bd75b74e29fdecc9870e0d8b0012d32e4298e5c63769d4f7bc4f144d6f50c548": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-15.png"
+  },
+  "bf853ae091b7590e2ae0d831a2c8da0fc1d43e95c669b3b72c91976ab7d726bf": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-10.png"
+  },
+  "c326fa47e7c0c8e57ef298099d06b1e197b0497f5ed22a248d71c06fc4c126e2": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-4.png"
+  },
+  "c3826b9cce2f9295517de7302c45811472016477eb197532b10198316a78c751": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-17.png"
+  },
+  "c42932db5e115f30effe02baa53c8f7d147f7c64b1a8e463526c46a4be6fc20e": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-3.png"
+  },
+  "c842fca2c61b159380ebfae04bdc8ab7da8789c2c5f2f2a3d92315446f207ffa": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-06/mishkah-2026-10-24-06-reel.mp4"
+  },
+  "ca037682d232164d25314621683251e6e9c6c8fb2bdfc41a7590f300c50d2227": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "scholar/2026-10-25-ibn-uthaymeen-last-day/mishkah-scholar-2026-10-25.mp4"
+  },
+  "ca1436f2fada9a74c8edde48c5dd622da26f6af3227136b0764059833732221b": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24/mishkah-2026-10-24-slide-1.png"
+  },
+  "caf102e03489cc4f15d9c867feb9af92af1480e4c266087685226f710379346f": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-5.png"
+  },
+  "cba97dd62bf438a5134a24db1e94dddccdfa7d84e23f838a6c70119e9912cf59": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26/mishkah-2026-10-26-slide-7.png"
+  },
+  "cc19a48bc72ec76e93f7f099b7213a036ae5fa70a7f97876c6339a2fb907ecb3": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-10.png"
+  },
+  "cddacdcc246c3ba1c47bf5c2ab2e327b3c2e5a47a6a7b2101c0aa5e558ebaff4": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-13.png"
+  },
+  "d13e61cd6b92b5651cb44929ab6c6940a993a84bde50845e59b830038facfd09": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25-02/mishkah-2026-10-25-02-slide-1.png"
+  },
+  "d781c654ca0ba99fcf160b6d3fa16d7e30c3e55d4e733996c7500fa8c5dbee56": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-2.png"
+  },
+  "d91c274c435ddb4398dbff74de8f35784bd6a95ba8877922de9b555b8be61153": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-4.png"
+  },
+  "d97937e23d37aa66b6a3ccc82eac2fda0013f5e8fdf4849c34e652d61c9bf74d": {
+   "added": "2026-10-27",
+   "date": "2026-10-27",
+   "path": "posts/2026-10-27/mishkah-2026-10-27-slide-2.png"
+  },
+  "da9d0cfe71e3944a4fe1260a24ed069df6a4d350d7b057f9be072f19b0648c4a": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-10.png"
+  },
+  "db8f70312957973960b7fad4b8ea99a3d9edefeca85de12086fd8a07e8bcb3ac": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "scholar/2026-10-24-02-ibnuthaymeen-repentance/mishkah-scholar-2026-10-24-02.mp4"
+  },
+  "dc12d4e2026653bf2af169d68d5663ead0cd9687e6d342769943ee6a32736834": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-03/mishkah-2026-10-24-03-slide-2.png"
+  },
+  "dc58de2ccc499b1abddc94d60d9aff9ba40e0c6a3922b5eea803589ccee841a1": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-6.png"
+  },
+  "df999875d1c7ef37990935380f8dd9f32055780ee5eca98c5b5630d466222124": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-6.png"
+  },
+  "dfbdaf7304762b0c59f66c56d925ef8d75b097fa30cf7cf19f0696cb4b6e98fa": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24/mishkah-2026-10-24-slide-4.png"
+  },
+  "dfec27dab0d4a13ee4475f85905452af77b7c88ca19acc71211001fd7cccd0d7": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "scholar/2026-10-26-ibn-baz-hereafter/mishkah-scholar-2026-10-26.mp4"
+  },
+  "e1bc1261a0206530ba5bf60fec08ea299bb787fdc4ac4208876088f5d0acfba0": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-07/mishkah-2026-10-24-07-slide-5.png"
+  },
+  "e1c6a3647c9e552799422688acd4a7c4a0a7dede83ef40dd8634e911ba9d4000": {
+   "added": "2026-10-27",
+   "date": "2026-10-27",
+   "path": "posts/2026-10-27/mishkah-2026-10-27-reel.mp4"
+  },
+  "e24b699fcc9c85e312a301f74ee8a02481c0053116fd3d13dd1a68fb99328c18": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-2.png"
+  },
+  "e31d4edf770062c7b70a319b9d5efd5d726818f20b12983f11c6ebac79518d3f": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-18.png"
+  },
+  "e4589a5459cabaff9e812073ee82da1013a5f8407eb1ca9d00988729fa1b5a7f": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-4.png"
+  },
+  "e5c4db74a11927194dbe3e4887f5aa7f2a0b873e2d75dc8918904ebe0b5cf8c4": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-2.png"
+  },
+  "e720ebef3a35c89fce6be6f7d9d7e3b36973ade83e6de8f4a002d2631129c486": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-slide-16.png"
+  },
+  "e8a0de749f1a755ea50bbac53273d1ce3363b2c8e872f9058a71c652fb9502de": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-slide-10.png"
+  },
+  "eae0a8497f379b81019c20b63e5b390d9313a6ba293a8f4e514f0dcd07b44634": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-03/mishkah-2026-10-24-03-slide-15.png"
+  },
+  "eb4192e51d43c243dfc62d974e7afad4e31a5b26ecd5e56fadd054f49c0c1576": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-10.png"
+  },
+  "eb9bc2137b5d0bb59e9e6e54bc0f595e138dd0cb05e2b8beb4d386ddd0a200f2": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-07/mishkah-2026-10-24-07-reel.mp4"
+  },
+  "ef3f02bc2821460fac41782cb5d7acd5eefae6d96e1be5b3e781e89d0c1d8564": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-6.png"
+  },
+  "f262a916f12ad0ec45e8b5d54ef1870970b478d2980457d1d0e1e24341545e70": {
+   "added": "2026-10-27",
+   "date": "",
+   "path": "remake/scholar-uthaymeen/mishkah-uthaymeen-340.mp4"
+  },
+  "f2a0b11adde75cfaa82f459ba527552fba0411d5dc314d9b83aaa40ea5e25166": {
+   "added": "2026-10-27",
+   "date": "2026-10-26",
+   "path": "posts/2026-10-26/mishkah-2026-10-26-reel.mp4"
+  },
+  "f3624ed7fac958bca4c09e076765f1381e78d5c9337452433e9a5f5c07e6f6a4": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-06/mishkah-2026-10-24-06-reel.mp4"
+  },
+  "f4719ff2bfb85eb79b4190f5158db17153177da94edf72f83f6a33e85c0e4259": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24/mishkah-2026-10-24-slide-4.png"
+  },
+  "f50010bbc06876580091e6b1ab1cef58890d820c1cd031522d346b9430c69233": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-1.png"
+  },
+  "f63a35b1502e4bad96b88cc1d67e1d746aabbed945be368efdd5fa991599338e": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-05/mishkah-2026-10-24-05-reel.mp4"
+  },
+  "f68414da80d21cfc0044ea9bd7eb8b0ddaa90b4a0743265cf2aa60fac5496660": {
+   "added": "2026-10-27",
+   "date": "2026-10-25",
+   "path": "posts/2026-10-25/mishkah-2026-10-25-slide-19.png"
+  },
+  "f7416b83944a577686ceda7471ecca57b8800a6bb65f2900a2fe5efbba9392c7": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-12.png"
+  },
+  "f811ddf335703f9d116daa8221d3f6d75f0d83107ad067aa3bdf415d40799e6e": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-10/mishkah-2026-10-24-10-slide-11.png"
+  },
+  "fa35693c32c2a3d91b2d8fe8b4afbf4e2cb54a7614712e1996541d0fb0174cca": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "posts/2026-10-24-05/mishkah-2026-10-24-05-slide-9.png"
+  },
+  "fa593debfc723de3f5d1308e9e23c5c666e29acef87034d40acac25056e6e8e3": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-04/mishkah-2026-10-24-04-reel.mp4"
+  },
+  "fbe0342ce4bbd802918c5364884f8ba73ea5742d1f5e291f67b447b14dd7c5ef": {
+   "added": "2026-10-27",
+   "date": "2026-10-24",
+   "path": "remake/2026-10-24-08/mishkah-2026-10-24-08-slide-1.png"
+  }
+ },
+ "schema": "mishkah-post-registry/1",
+ "signed": null
+}
